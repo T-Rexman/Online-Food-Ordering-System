@@ -44,5 +44,3 @@ How to setup and open project
 
 7. Open browser and paste this link http://localhost/*Online-Food-Ordering-System-main/index.php 
   (*depends on project folder name)
-
-
